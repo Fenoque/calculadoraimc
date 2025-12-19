@@ -1,16 +1,9 @@
-# calcimc
+# Calculadore de IMC
 
-A new Flutter project.
+Projeto simples em Flutter:
+Calcula o IMC e utiliza conceitos simples da linguagem flutter.
 
-## Getting Started
+<img width="275" height="611" alt="image" src="https://github.com/user-attachments/assets/762d4e96-9a53-44dc-a5c5-265a3fa46b99" />
 
-This project is a starting point for a Flutter application.
+<img width="275" height="611" alt="image" src="https://github.com/user-attachments/assets/d26314db-195b-496e-bfd8-5f2dfda274b9" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
